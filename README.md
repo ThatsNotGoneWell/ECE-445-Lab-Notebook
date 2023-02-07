@@ -1,7 +1,5 @@
 # ECE-445-Lab-Notebook
 
-README
-
 This is the lab notebook that record all the activities while working on my project.
 
 Project Name:
